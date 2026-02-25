@@ -3,4 +3,4 @@ Should you run away or ask them to leave you alone?
 
 [run away](run-away.md)
 
-[Manipulate them in leaving you alone](manipulate.md)
+[Tell them to leave you alone](manipulate.md)
