@@ -2,4 +2,4 @@ You've chosen to peek out the window of your house; Good choice but you've got n
 
 [Open the door](furious.md)
 
-
+[Keep the doors closed and run down to the basement](crash.md)
