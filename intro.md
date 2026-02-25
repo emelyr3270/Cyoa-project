@@ -4,4 +4,4 @@ During  gloomy day in the noon, a magical portal shows up from nowhere and comes
 
 [stay indoors](indoor/stay-indoors.md)
 
-[go outdoors](go-outside.md)
+[go outdoors](outdoors/go-outside.md)
