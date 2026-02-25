@@ -4,4 +4,4 @@
 
 Click [here](intro.md) to begin!
 
-Made by [Gavin Liu](github.com/gavinl6762) and
+Made by [Gavin Liu](https://github.com/gavinl6762) and
