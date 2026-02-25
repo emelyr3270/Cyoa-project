@@ -1,1 +1,4 @@
-The robots start to attack them, they then start to go after you
+The robots has caught the eye of your neighbors and start to attack them without a warning.
+Well.. atleast you've saved yourself, right?? WRONG, they then start to go after you and you die. This is the consequences of your selfish actions.
+
+[Back to home](../intro.md)

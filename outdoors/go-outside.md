@@ -1,5 +1,6 @@
-Robots are evil and start chasing you
+As your curious mind decides to explore, the robots catch your eye. They turn to you and walk your way. Uh oh.. they look angry.
+Should you run away or ask them to leave you alone?
 
 [run away](run-away.md)
 
-[manipulate them](manipulate.md)
+[Manipulate them in leaving you alone](manipulate.md)
