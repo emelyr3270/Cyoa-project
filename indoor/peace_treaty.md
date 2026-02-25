@@ -1,1 +1,3 @@
 Pretty decent choice but kind of risky; I mean asking a robot for a peace treaty is quite odd, but if it works it works. The Robot takes your offer and lets you live while it leaves to another dimension. Have a good life; remember this moment.
+
+[Back to home](intro.md)
